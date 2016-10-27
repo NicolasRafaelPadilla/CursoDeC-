@@ -1,0 +1,10 @@
+C:\Users\Student Brother PY\AppData\Local\Temporary Projects\programa1\bin\Debug\programa1.exe.config
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\programa1\bin\Debug\programa1.exe.config
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\programa1\bin\Debug\programa1.exe
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\programa1\bin\Debug\programa1.pdb
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\programa1\obj\Debug\programa1.csprojResolveAssemblyReference.cache
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\programa1\obj\Debug\programa1.exe
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\programa1\obj\Debug\programa1.pdb
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\1\programa1\bin\Debug\programa1.exe.config
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\1\programa1\obj\Debug\programa1.exe
+C:\Users\Student Brother PY\Desktop\curso de c#\programa1\1\programa1\obj\Debug\programa1.pdb
